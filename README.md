@@ -12,7 +12,7 @@ El sistema permite a los usuarios buscar parqueaderos mediante filtros, como la 
 - Karen Velazquez 20181020086 [@karen](https://github.com/caimanc)
 - Sergio Vega 20181020086 [@sergio](https://github.com/caimanc)
 - Anderson Lopez 20181020086 [@anderson](https://github.com/caimanc)
-- Juan Gonzalez 20191020153 [@juan_andres_gonzalez](https://github.com/JuanAndresGonzalez)
+- Juan Andres Gonzalez 20191020153 [@juan_andres_gonzalez](https://github.com/JuanAndresGonzalez)
 - Igor Abril 20181020086 [@Igor](https://github.com/caimanc)
 ## Referencia de color
 
