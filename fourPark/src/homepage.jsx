@@ -1,13 +1,15 @@
 import React from 'react';
+import logo from './assets/img/logo.png';
 
 // Componente de la barra de navegación
 const NavBar = () => (
   <nav>
-    <a href="/">Inicio</a>
-    <a href="/parqueaderos">Parqueaderos</a>
-    <a href="/quienes-somos">¿Quiénes Somos?</a>
-    <a href="/precios">Precios</a>
-    <button>¡Reserva Ahora!</button>
+    <img src={logo} alt="Four Parking logo" />
+    <a href="/">Inicio  </a>
+    <a href="/parqueaderos">Parqueaderos  </a>
+    <a href="/quienes-somos">¿Quiénes Somos?  </a>
+    <a href="/precios">Precios  </a>
+    <button>¡Reserva Ahora! </button>
   </nav>
 );
 
