@@ -8,12 +8,12 @@ El sistema permite a los usuarios buscar parqueaderos mediante filtros, como la 
 
 ## Autores
 
-- Camilo Caiman 20181020086 [@caimanc](https://github.com/caimanc)
+- Camilo Andres Caiman 20181020086 [@caimanc](https://github.com/caimanc)
 - Karen Valentina Velazquez 20181020086 [@karen](https://github.com/caimanc)
 - Sergio Andres Vega 20181020086 [@sergio](https://github.com/caimanc)
-- Anderson Lopez 20181020086 [@anderson](https://github.com/caimanc)
+- Anderson Jeffrey Lopez 20181020086 [@anderson](https://github.com/caimanc)
 - Juan Andres Gonzalez 20191020153 [@JuanAndresGonzalez](https://github.com/JuanAndresGonzalez)
-- Igor Abril 20181020086 [@Igor](https://github.com/caimanc)
+- Igor Felipe Abril 20181020086 [@Igor](https://github.com/caimanc)
 ## Referencia de color
 
 | Color             | Hex                                                                |
