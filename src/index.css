@@ -53,10 +53,10 @@ body, html {
 }
 
 .form-content {
-  position: relative; /* Posición absoluta para el contenido */
-  top: 50%; /* Centra verticalmente */
-  left: 50%; /* Centra horizontalmente */
-  transform: translate(-50%, -50%); /* Centra el contenido exactamente */
+  position: relative; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
 }
 
 .form-container input[type="email"],
@@ -106,14 +106,48 @@ body, html {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) and (min-width:100px){ /* Celulares */
   .form-container {
     width: 80%; 
-    padding: 10vw; 
-    border-radius: 10vw; 
-    backdrop-filter: blur(3vw);
+    height: 24rem;
+    padding: 10vw;
+    border-radius: 5vw; 
+    backdrop-filter: blur(3vw); 
+  }
+  .form-content {
+    font-size: 3vw;
   }
 }
+@media screen and (min-width: 768px) and (max-width: 1024px) { /* Tablets */
+  .form-container {
+    width: 24rem;
+    height: 21rem;
+    padding: 8vw;
+    border-radius: 2vw;
+    backdrop-filter: blur(2vw);
+    margin-bottom: 2vw; 
+  }
+  .form-content {
+    font-size: 2vw;
+  }
+  .form-container p { 
+    margin-top: 2vw; 
+  }
+}
+
+
+@media screen and (min-width: 1024px) { /* Escritorio */
+  .form-container {
+    width: 27rem; 
+    height: 27rem;
+    padding: 3vw; 
+    border-radius: 1vw;
+    backdrop-filter: blur(3vw); 
+    margin-bottom: 2vw;
+  }
+  
+}
+
 
 
 
