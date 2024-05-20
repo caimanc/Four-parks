@@ -10,7 +10,7 @@ El sistema permite a los usuarios buscar parqueaderos mediante filtros, como la 
 
 - Camilo Andres Caiman 20181020086 [@caimanc](https://github.com/caimanc)
 - Karen Valentina Velásquez 20191020062 [@canelalgo](https://github.com/canelalgo)
-- Sergio Andres Vega 20181020086 [@sergio](https://github.com/caimanc)
+- Sergio Andres Vega 20181020086 [@Sergio-Vega21](https://github.com/Sergio-Vega21)
 - Anderson Jeffrey Lopez 20181020086 [@anderson](https://github.com/caimanc)
 - Juan Andres Gonzalez 20191020153 [@JuanAndresGonzalez](https://github.com/JuanAndresGonzalez)
 - Igor Felipe Abril 20181020086 [@Igor](https://github.com/caimanc)
