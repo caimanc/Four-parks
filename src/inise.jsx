@@ -11,8 +11,8 @@ const loginForm = () => {
         <input type="password" placeholder="Contraseña" required /><br></br><br></br>
         <button type="submit">Iniciar Sesión</button>
         </form>
-        <p> <a href="/IniSe.jsx">¿Olvidaste tu contraseña?</a></p>
-        <p> <a href="/IniSe.jsx">¿Olvidaste tu usuario?</a></p>
+        <p><a href="/agregarParqueadero">¿Olvidaste tu contraseña?</a></p>
+        <p><a href="/IniSe.jsx">¿Olvidaste tu usuario?</a></p>
     </div>
     );
 };

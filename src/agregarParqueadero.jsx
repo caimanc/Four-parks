@@ -1,5 +1,11 @@
 import React, { useState } from 'react';
 
+import { useNavigate } from 'react-router-dom';
+
+const AgregarParqueadero = () => {
+    const navigate = useNavigate(); // Get useNavigate hook instance
+}
+
 function agregarParqueadero() {
   const [form, setForm] = useState({
     ciudad: '',
