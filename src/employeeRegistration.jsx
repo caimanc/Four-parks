@@ -4,14 +4,14 @@ import logo from './assets/img/logo.png';
 import { useNavigate } from 'react-router-dom';
 
 
-  
+
 
 const EmployeeRegistration = () => {
     const navigate = useNavigate(); // Get useNavigate hook instance
 
-  const handleLoginClick = () => {
+const handleLoginClick = () => {
     navigate('/inise'); // Navigate to '/inise' when clicked
-  };
+};
     return (
         
         <div className="employeeRegistration">
